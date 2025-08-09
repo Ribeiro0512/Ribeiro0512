@@ -1,9 +1,9 @@
 ## Olá, Eu sou Ribeiro⚡
 
 <div>
-  <a href="http://bio.site/riibeiro.dev"> </a>
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Ribeiro0512&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro0512&layout=compact&langs_count=16&theme=dark"/>
+  <a href="http://bio.site/riibeiro.dev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro0512&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro0512&layout=compact&langs_count=16&theme=dark"/></a>
 </div>
 
 <div style="display: inline_block"><br>
