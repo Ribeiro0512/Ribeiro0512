@@ -11,7 +11,7 @@
   <img align="center" alt="Ribeiro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rribeiro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ribeiro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ribeiro-C" height="40" width="40" src="https://img.icons8.com/color/48/c-programming.png">
+  <img align="center" alt="Ribeiro-C" height="40" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="right" alt="Ribeiro-anime" src="https://cdn.discordapp.com/attachments/1403781135049297954/1403783572334182471/iconGIT-removebg-preview.png?ex=6898ced4&is=68977d54&hm=cd92774539a3fbb6a86d9d2c55efcd2b576990d3c2a98d903fc3d1c01d65bb50&">
 </div>
 
