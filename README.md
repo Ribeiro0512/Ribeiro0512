@@ -7,10 +7,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ribeiro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ribeiro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rribeiro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ribeiro-C" height="40" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img align="center" alt="Ribeiro-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
   ##
